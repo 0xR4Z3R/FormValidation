@@ -2,6 +2,9 @@
 
 Simple form Validation 
 
+Link here : 
+https://0xr4z3r.github.io/FormValidation/index.html
+
 Username ---> only letter
 
 function allLetter(inputtxt)
